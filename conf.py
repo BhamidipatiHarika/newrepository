@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'GIT_HUB_DOCUMENTATION'
-copyright = '2021, POOJITH CHOWDARY'
-author = 'POOJITH CHOWDARY'
+copyright = '2021, Harika'
+author = 'Harika'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
